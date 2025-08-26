@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joaquin Alvarado Osorio
+# 👋 Hi, I'm Cesar Joaquin Alvarado Osorio
 
 💻 **Computer Science Student** | **Backend Developer** | **AI & Data Science Enthusiast**  
 
