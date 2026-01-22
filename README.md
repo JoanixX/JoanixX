@@ -2,7 +2,7 @@
 
 💻 **Computer Science Student** | **Backend Developer** | **AI & Data Science Enthusiast**  
 
-🚀 Founder & Backend Lead at Chambea Ya, that works with **AI-powered solutions**  
+🚀 Founder & Ex - CTO at Chambea Ya, that works with **AI-powered solutions**  
 🏆 Member of a **Competitive Programming Group (GPC)**  
 📚 Always learning more about **scalable backends, data science and AI**  
 
@@ -14,6 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
